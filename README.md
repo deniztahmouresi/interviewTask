@@ -1,34 +1,34 @@
 The code structure is as follows:
 
 1st Part : Data Exploration & Exploratory Data Analysis (EDA) including
-      Dimension exploration,
-      Sample visualization,
-      Distribution visualoization,
-      Data range exploration
+      dimension exploration,
+      sample visualization,
+      distribution visualoization,
+      data range exploration
       
 2nd Part: Data Preprocessing including
-      Data normalization,
-      Data reshaping
+      data normalization,
+      data reshaping
 
 3rd Part: Model Building (CNN)
 
 4th Part: Model Evaluation & Visualization including
-      Training accuracy & loss curves,
-      Confusion matrix,
-      Loss and accuracy,
-      Precision,
-      Recall,
+      training accuracy & loss curves,
+      confusion matrix,
+      loss and accuracy,
+      precision,
+      recall,
       F1-score
 
 5th Part: Data Preprocessing including
-      Noise filtering,
-      Data normalization,
-      Data reshaping
+      noise filtering,
+      data normalization,
+      data reshaping
 
 6th Part: Model Evaluation & Visualization including
-      Training accuracy & loss curves,
-      Confusion matrix,
-      Loss and accuracy,
-      Precision,
-      Recall,
+      training accuracy & loss curves,
+      confusion matrix,
+      loss and accuracy,
+      precision,
+      recall,
       F1-score,
